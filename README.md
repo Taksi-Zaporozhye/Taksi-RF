@@ -21,7 +21,7 @@
     <meta name="msapplication-TileColor" content="#1E40AF">
     <meta name="msapplication-config" content="/browserconfig.xml">
     
-    <title>НАШЕТАКСИ - Междугородние поездки от 100 км</title>
+    <title>НАШЕТАКСИ  Междугородние поездки от 100 км</title>
     <meta name="description" content="НАШЕТАКСИ - междугородние поездки от 100 км. Из и в зону СВО. Опытные водители, комфортабельные автомобили. Заказать такси круглосуточно." />
     <meta name="author" content="НАШЕТАКСИ" />
     <meta name="keywords" content="нашетакси, междугородние поездки, такси 100 км, СВО, зона спецоперации, дальние поездки, такси Россия" />
@@ -49,8 +49,8 @@
     <!-- Контактная информация -->
     <div style="position: fixed; bottom: 20px; right: 20px; background: white; padding: 15px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); z-index: 1000; font-family: Arial, sans-serif;">
       <div style="font-weight: bold; margin-bottom: 10px;">Свяжитесь с нами:</div>
-      <div style="margin-bottom: 8px;">
-        <a href="https://t.me/Nikita24_01" target="_blank" style="text-decoration: none; color: #0088cc;">
+      <div style="margin-bottom: 8px;>
+        <ahref="https://t.me/Nikita24_01" target="_blank" style="text-decoration: none; color: #0088cc;">
           Telegram: @Nikita24_01
         </a>
       </div>
